@@ -1,0 +1,147 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Navya/VLSIGURU/verilog_code/2_1_MUX
+vmux21
+Z1 !s110 1773815282
+!i10b 1
+!s100 6Vn4F^f:Q4GZaYa4B5PV[0
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+Id98K;I8nl>7e>;X9SOLU>0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1773813475
+8mux21.v
+Z3 Fmux21.v
+!i122 5
+L0 1 5
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1773815282.000000
+!s107 mux21.v|mux41.v|tb_mux41.v|
+Z6 !s90 -reportprogress|300|tb_mux41.v|
+!i113 1
+Z7 tCvgOpt 0
+vmux41
+R1
+R2
+r1
+!s85 0
+!i10b 1
+!s100 mddcF=mlZ>>J_njXYhm8W0
+IUi0f:nEQnP@M927FLiN1Y3
+R0
+Z8 w1773815275
+8mux41.v
+Z9 Fmux41.v
+!i122 5
+L0 2 7
+R4
+31
+R5
+Z10 !s107 mux21.v|mux41.v|tb_mux41.v|
+R6
+!i113 1
+R7
+vtb_21mux
+Z11 !s110 1773813581
+R2
+r1
+!s85 0
+!i10b 1
+!s100 in57N?QZGNVJzjC`H=N@J0
+I4UbG25C>zlhlc9b`olM<c3
+R0
+Z12 w1773813576
+Z13 8tb_2_1_mux.v
+Z14 Ftb_2_1_mux.v
+!i122 2
+L0 2 13
+R4
+31
+Z15 !s108 1773813581.000000
+Z16 !s107 mux21.v|tb_2_1_mux.v|
+Z17 !s90 -reportprogress|300|tb_2_1_mux.v|
+!i113 1
+R7
+Xtb_2_1_mux_v_unit
+Z18 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+R11
+VM169T:?oa6QYCl^3M2@@H3
+r1
+!s85 0
+!i10b 1
+!s100 <YCU@cG6W26<UNNbXY`eS3
+IM169T:?oa6QYCl^3M2@@H3
+!i103 1
+S1
+R0
+R12
+R13
+R14
+R3
+!i122 2
+Z19 L0 1 0
+R4
+31
+R15
+R16
+R17
+!i113 1
+R7
+vtb_mux41
+R1
+R2
+r1
+!s85 0
+!i10b 1
+!s100 AEkToI5VY7BIKkn[gVKRg3
+IJNGQWFL>aFoSDfTe6Loaj2
+R0
+w1773814794
+Z20 8tb_mux41.v
+Z21 Ftb_mux41.v
+!i122 5
+L0 2 15
+R4
+31
+R5
+R10
+R6
+!i113 1
+R7
+Xtb_mux41_v_unit
+R18
+R1
+VbKDI3M@D9K;a2^aE8T>Un1
+r1
+!s85 0
+!i10b 1
+!s100 >;gTV1dAC06JnSUCNjJ<g0
+IbKDI3M@D9K;a2^aE8T>Un1
+!i103 1
+S1
+R0
+R8
+R20
+R21
+R9
+R3
+!i122 5
+R19
+R4
+31
+R5
+R10
+R6
+!i113 1
+R7
