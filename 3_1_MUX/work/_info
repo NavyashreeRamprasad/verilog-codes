@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Navya/VLSIGURU/verilog_code/3_1_MUX
+vmux31
+Z1 !s110 1774888955
+!i10b 1
+!s100 alf6CEXE:11bDN7J]iPAO3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I[20^QVPc[>;oWm?G6bQAm2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1774887486
+8mux31.v
+Fmux31.v
+!i122 5
+L0 1 7
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1774888955.000000
+!s107 mux31.v|tbmux31.v|
+Z6 !s90 -reportprogress|300|tbmux31.v|
+!i113 1
+Z7 tCvgOpt 0
+vtbmux
+R1
+!i10b 1
+!s100 O3;P9UXbNhD_GH=f^GFHX2
+R2
+IH=5E<:Q6;1lifXRoU96_o1
+R3
+R0
+w1774888951
+8tbmux31.v
+Ftbmux31.v
+!i122 5
+L0 2 16
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 mux31.v|tbmux31.v|
+R6
+!i113 1
+R7
