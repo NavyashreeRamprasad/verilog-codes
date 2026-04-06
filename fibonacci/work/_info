@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Navya/VLSIGURU/verilog_code/fibonacci
+vfibo
+!s110 1774940447
+!i10b 1
+!s100 b67_gn>:oJZk3MN2]lZTE3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I<ji]B?o<LMU>;2^UPjGF]2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1774940438
+Z3 8fibo.v
+Z4 Ffibo.v
+!i122 3
+L0 1 15
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1774940447.000000
+!s107 fibo.v|fibotb.v|
+Z6 !s90 -reportprogress|300|fibotb.v|
+!i113 1
+Z7 tCvgOpt 0
+vfibonacci
+Z8 !s110 1774978892
+!i10b 1
+!s100 >HfUS<PeNY>Fl[81mS`GF0
+R1
+I5gQX0eOa?Dh3GEbRVZJ[P2
+R2
+R0
+w1774978888
+R3
+R4
+!i122 10
+L0 1 22
+R5
+r1
+!s85 0
+31
+Z9 !s108 1774978892.000000
+Z10 !s107 fibo.v|fibotb.v|
+R6
+!i113 1
+R7
+vfibotb
+R8
+!i10b 1
+!s100 8iFX8HZQnQGA6N=S?>6Vc0
+R1
+I4j462TIJ;=6o^UP=bTQCE2
+R2
+R0
+w1774978750
+8fibotb.v
+Ffibotb.v
+!i122 10
+L0 2 11
+R5
+r1
+!s85 0
+31
+R9
+R10
+R6
+!i113 1
+R7

@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Navya/VLSIGURU/verilog_code/demux
+vdemux14
+Z1 !s110 1775021271
+!i10b 1
+!s100 6G0e5VhznBjh];D6iFgh73
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I:KglAY:KlVn;zQ=zW]>_K0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1775021263
+8demux.v
+Z4 Fdemux.v
+!i122 5
+L0 1 17
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1775021271.000000
+Z7 !s107 demux.v|demuxtb.v|
+Z8 !s90 -reportprogress|300|demuxtb.v|
+!i113 1
+Z9 tCvgOpt 0
+Xdemuxtb_v_unit
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1774937338
+VCzWiG7iZ>NlNa<`jNa2ln0
+r1
+!s85 0
+!i10b 1
+!s100 NZH?CK;dRUUe;`h@41m4<0
+ICzWiG7iZ>NlNa<`jNa2ln0
+!i103 1
+S1
+R0
+w1774937332
+Z10 8demuxtb.v
+Z11 Fdemuxtb.v
+R4
+!i122 1
+L0 1 0
+R5
+31
+!s108 1774937338.000000
+R7
+R8
+!i113 1
+R9
+vtb_mux14
+R1
+!i10b 1
+!s100 7BI0NjikXA2F9]lB9V<o73
+R2
+Ig@WYJ7kQ]bbiHaad:_m?63
+R3
+R0
+w1775020428
+R10
+R11
+!i122 5
+L0 2 18
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9

@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Navya/VLSIGURU/verilog_code/arrays
+varray_urandom
+!s110 1775120308
+!i10b 1
+!s100 l1nULBARcZ^BRn`<O5KHN2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IC@Q_lIS3Qa8KTA_UiEMoo3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1775120303
+8array_urandom.v
+Farray_urandom.v
+!i122 1
+L0 1 14
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1775120308.000000
+!s107 array_urandom.v|
+!s90 -reportprogress|300|array_urandom.v|
+!i113 1
+Z4 tCvgOpt 0
+veven
+!s110 1775193625
+!i10b 1
+!s100 E@dQI0YW8m4RVZ_85ScaJ3
+R1
+I]@fOEEdOPFFf^7D2TCG@P3
+R2
+R0
+w1775193614
+Z5 8twoarray.v
+Z6 Ftwoarray.v
+!i122 6
+L0 27 23
+R3
+r1
+!s85 0
+31
+!s108 1775193625.000000
+Z7 !s107 twoarray.v|
+Z8 !s90 -reportprogress|300|twoarray.v|
+!i113 1
+R4
+vtb
+!s110 1775192780
+!i10b 1
+!s100 dYE?^O[>BSdDnWB71CdL62
+R1
+IE^BzKj;cHH5Llom;N=ZXn1
+R2
+R0
+w1775192772
+R5
+R6
+!i122 3
+L0 1 25
+R3
+r1
+!s85 0
+31
+!s108 1775192780.000000
+R7
+R8
+!i113 1
+R4

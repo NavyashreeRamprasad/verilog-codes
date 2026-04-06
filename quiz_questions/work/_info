@@ -1,0 +1,123 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Navya/VLSIGURU/verilog_code
+vquiz_2
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1774964475
+!i10b 1
+!s100 jDnh9MYo^<2MWh]H9fj`82
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I0XTEGDHG:a990GYaU5MN70
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1774964451
+8quiz2.sv
+Fquiz2.sv
+!i122 0
+L0 1 11
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1774964475.000000
+!s107 quiz2.sv|
+!s90 -reportprogress|300|quiz2.sv|
+!i113 1
+Z4 tCvgOpt 0
+vquiz_3
+!s110 1774965095
+!i10b 1
+!s100 Mo@:WABciW55W=Gi<2kLO2
+R1
+IlCal?UecaNPZCOPEmS6Um2
+R2
+Z5 dC:/Navya/VLSIGURU/verilog_code/quiz_questions
+w1774964997
+8quiz3.v
+Fquiz3.v
+!i122 1
+Z6 L0 1 9
+R3
+r1
+!s85 0
+31
+!s108 1774965095.000000
+!s107 quiz3.v|
+!s90 -reportprogress|300|quiz3.v|
+!i113 1
+R4
+vquiz_4
+!s110 1774972406
+!i10b 1
+!s100 4bkM]D>Ug367YABXQYR3H1
+R1
+IBB4WZ=lhW1LVlVn6imlIJ3
+R2
+R5
+w1774972402
+8quiz4.v
+Fquiz4.v
+!i122 2
+R6
+R3
+r1
+!s85 0
+31
+!s108 1774972406.000000
+!s107 quiz4.v|
+!s90 -reportprogress|300|quiz4.v|
+!i113 1
+R4
+vquiz_5
+!s110 1774972703
+!i10b 1
+!s100 5C@a:0J@54YTF7QW_V13a0
+R1
+IMOF_bNDZ`]7YEehW^J7>Q1
+R2
+R5
+w1774972684
+8quiz5.v
+Fquiz5.v
+!i122 3
+L0 1 8
+R3
+r1
+!s85 0
+31
+!s108 1774972703.000000
+!s107 quiz5.v|
+!s90 -reportprogress|300|quiz5.v|
+!i113 1
+R4
+vquiz_6
+!s110 1774973007
+!i10b 1
+!s100 FBCFEHFzlQ9Z:m03i7NTZ0
+R1
+Im9gVfBFcEd042IYN62E[c3
+R2
+R5
+w1774972952
+8quiz6.v
+Fquiz6.v
+!i122 4
+L0 1 10
+R3
+r1
+!s85 0
+31
+!s108 1774973007.000000
+!s107 quiz6.v|
+!s90 -reportprogress|300|quiz6.v|
+!i113 1
+R4
