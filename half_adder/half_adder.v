@@ -1,10 +1,17 @@
 module halfadder(a,b,sum,carry);
 input a,b;
-output reg sum,carry;
+output sum,carry;
 
-always@(*)
+/*always@(*)
 begin
 sum = a^b;
 carry = a&b;
-end
+end*/
+
+/*assign sum = a^b;
+assign carry = a&b;*/
+
+xor (sum,a,b);
+and (carry,a,b);
+
 endmodule

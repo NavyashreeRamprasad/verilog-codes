@@ -23,8 +23,8 @@ w1774964451
 8quiz2.sv
 Fquiz2.sv
 !i122 0
-L0 1 11
-Z3 OV;L;2020.1;71
+Z3 L0 1 11
+Z4 OV;L;2020.1;71
 r1
 !s85 0
 31
@@ -32,7 +32,7 @@ r1
 !s107 quiz2.sv|
 !s90 -reportprogress|300|quiz2.sv|
 !i113 1
-Z4 tCvgOpt 0
+Z5 tCvgOpt 0
 vquiz_3
 !s110 1774965095
 !i10b 1
@@ -40,13 +40,13 @@ vquiz_3
 R1
 IlCal?UecaNPZCOPEmS6Um2
 R2
-Z5 dC:/Navya/VLSIGURU/verilog_code/quiz_questions
+Z6 dC:/Navya/VLSIGURU/verilog_code/quiz_questions
 w1774964997
 8quiz3.v
 Fquiz3.v
 !i122 1
-Z6 L0 1 9
-R3
+Z7 L0 1 9
+R4
 r1
 !s85 0
 31
@@ -54,7 +54,7 @@ r1
 !s107 quiz3.v|
 !s90 -reportprogress|300|quiz3.v|
 !i113 1
-R4
+R5
 vquiz_4
 !s110 1774972406
 !i10b 1
@@ -62,13 +62,13 @@ vquiz_4
 R1
 IBB4WZ=lhW1LVlVn6imlIJ3
 R2
-R5
+R6
 w1774972402
 8quiz4.v
 Fquiz4.v
 !i122 2
-R6
-R3
+R7
+R4
 r1
 !s85 0
 31
@@ -76,7 +76,7 @@ r1
 !s107 quiz4.v|
 !s90 -reportprogress|300|quiz4.v|
 !i113 1
-R4
+R5
 vquiz_5
 !s110 1774972703
 !i10b 1
@@ -84,13 +84,13 @@ vquiz_5
 R1
 IMOF_bNDZ`]7YEehW^J7>Q1
 R2
-R5
+R6
 w1774972684
 8quiz5.v
 Fquiz5.v
 !i122 3
 L0 1 8
-R3
+R4
 r1
 !s85 0
 31
@@ -98,7 +98,7 @@ r1
 !s107 quiz5.v|
 !s90 -reportprogress|300|quiz5.v|
 !i113 1
-R4
+R5
 vquiz_6
 !s110 1774973007
 !i10b 1
@@ -106,13 +106,13 @@ vquiz_6
 R1
 Im9gVfBFcEd042IYN62E[c3
 R2
-R5
+R6
 w1774972952
 8quiz6.v
 Fquiz6.v
 !i122 4
-L0 1 10
-R3
+Z8 L0 1 10
+R4
 r1
 !s85 0
 31
@@ -120,4 +120,48 @@ r1
 !s107 quiz6.v|
 !s90 -reportprogress|300|quiz6.v|
 !i113 1
+R5
+vquiz_7
+!s110 1775460812
+!i10b 1
+!s100 WeJFYcmoCl;khV;Z2J]MC2
+R1
+IC3hmTmMK8H]oLGe8Oz^z73
+R2
+R6
+w1775460804
+8quiz7.v
+Fquiz7.v
+!i122 7
+R8
 R4
+r1
+!s85 0
+31
+!s108 1775460811.000000
+!s107 quiz7.v|
+!s90 -reportprogress|300|quiz7.v|
+!i113 1
+R5
+vquiz_8
+!s110 1775460317
+!i10b 1
+!s100 OI9jGF;AiC>I_H`6@^3aR1
+R1
+ID]`G>=cN]jNz[<AUS^4Sk3
+R2
+R6
+w1775460080
+8quiz8.v
+Fquiz8.v
+!i122 6
+R3
+R4
+r1
+!s85 0
+31
+!s108 1775460317.000000
+!s107 quiz8.v|
+!s90 -reportprogress|300|quiz8.v|
+!i113 1
+R5

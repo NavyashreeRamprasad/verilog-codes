@@ -1,0 +1,33 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Navya/VLSIGURU/verilog_code/values_bw_1_2
+vtb
+!s110 1775623740
+!i10b 1
+!s100 ?A?MV@PObCl7g:X>Dmd:A3
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+IaJb9amLLik:db]Y:2a<7F2
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1775623661
+8val.v
+Fval.v
+!i122 0
+L0 1 10
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1775623740.000000
+!s107 val.v|
+!s90 -reportprogress|300|val.v|
+!i113 1
+tCvgOpt 0
