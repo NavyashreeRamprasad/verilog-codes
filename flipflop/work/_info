@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Navya/VLSIGURU/verilog_code/flipflop
+vdff
+!s110 1776165264
+!i10b 1
+!s100 [jzQ;obVdP;8AKf?n?=>c2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I7z3]hU[J;LG]Q9]mKCMb<2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1776165056
+8dff.v
+Fdff.v
+!i122 21
+L0 1 19
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1776165264.000000
+!s107 dff.v|dtb.v|
+!s90 -reportprogress|300|dtb.v|
+!i113 1
+Z4 tCvgOpt 0
+vjk_negff
+Z5 !s110 1776167349
+!i10b 1
+!s100 <@QmF`Vcg;RAgAQ^3IQE40
+R1
+Ib^6T1XVjJlfXz^fMZNiZL0
+R2
+R0
+w1776167341
+8jk_negff.v
+Fjk_negff.v
+!i122 30
+L0 1 17
+R3
+r1
+!s85 0
+31
+Z6 !s108 1776167349.000000
+!s107 jk_negff.v|tb.v|
+Z7 !s90 -reportprogress|300|tb.v|
+!i113 1
+R4
+vtb
+R5
+!i10b 1
+!s100 i6Ri=Z1EiU[ITQ?n63;Wf2
+R1
+I7j39TZa^NIOgQ8?MSH8]e2
+R2
+R0
+w1776162480
+8tb.v
+Ftb.v
+!i122 30
+L0 3 19
+R3
+r1
+!s85 0
+31
+R6
+Z8 !s107 jk_negff.v|tb.v|
+R7
+!i113 1
+R4

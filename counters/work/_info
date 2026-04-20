@@ -1,0 +1,121 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Navya/VLSIGURU/verilog_code/counters
+vdowncounter
+!s110 1776252386
+!i10b 1
+!s100 JBoVzL=WeXYb:?:O]:S9e2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ig=2Y[ZP8M<Rho1Q@5C]JO3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1776252374
+8downcounter.v
+Fdowncounter.v
+!i122 4
+Z3 L0 1 13
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1776252386.000000
+!s107 downcounter.v|tbupcounter.v|
+Z5 !s90 -reportprogress|300|tbupcounter.v|
+!i113 1
+Z6 tCvgOpt 0
+vjkff
+Z7 !s110 1776362109
+!i10b 1
+!s100 AVYCcP`eVellZCY_Ngc_c1
+R1
+I?o[4B8Sd>zzaX;TK@RAf73
+R2
+R0
+Z8 w1776361841
+Z9 8syn3jkdown.v
+Z10 Fsyn3jkdown.v
+!i122 27
+L0 1 19
+R4
+r1
+!s85 0
+31
+Z11 !s108 1776362109.000000
+!s107 syn3jkdown.v|tb_syn3jk.v|
+Z12 !s90 -reportprogress|300|tb_syn3jk.v|
+!i113 1
+R6
+vsyn3bjk
+R7
+!i10b 1
+!s100 l]3PAEXDVa^HP`I]j_:E]2
+R1
+IfM95l23RUXUA:;cNY[k2A2
+R2
+R0
+R8
+R9
+R10
+!i122 27
+L0 23 16
+R4
+r1
+!s85 0
+31
+R11
+Z13 !s107 syn3jkdown.v|tb_syn3jk.v|
+R12
+!i113 1
+R6
+vtb
+R7
+!i10b 1
+!s100 z2?GFnMjg8Y`bnOQfTFOg2
+R1
+I;UP9?zRoEnY8Q8`ckEEJ00
+R2
+R0
+w1776361943
+8tb_syn3jk.v
+Ftb_syn3jk.v
+!i122 27
+L0 2 20
+R4
+r1
+!s85 0
+31
+R11
+R13
+R12
+!i113 1
+R6
+vupcounter
+!s110 1776250729
+!i10b 1
+!s100 mRen;lMnF5U;0oYTKaN263
+R1
+I`aGIlL=>U>koHSOJCYKbb1
+R2
+R0
+w1776250723
+8upcounter.v
+Fupcounter.v
+!i122 2
+R3
+R4
+r1
+!s85 0
+31
+!s108 1776250729.000000
+!s107 upcounter.v|tbupcounter.v|
+R5
+!i113 1
+R6
